@@ -1,0 +1,24 @@
+{
+  "name": "reactTest",
+  "version": "1.0.0",
+  "description": "react tests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flemdizzle/ReactPractice.git"
+  },
+  "author": "flemdizzle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flemdizzle/ReactPractice/issues"
+  },
+  "homepage": "https://github.com/flemdizzle/ReactPractice",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^4.11.1"
+  }
+}
